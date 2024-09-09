@@ -1,0 +1,3 @@
+export const SENDBIRD_INFO = {
+  appId: '4EF65B48-521C-4806-937F-374EDE5F74E8'
+};
